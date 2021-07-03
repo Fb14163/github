@@ -1,0 +1,48 @@
+.header1{
+    background-color: rgb(94, 156, 236);
+    width: 100%;
+    height: 200px;
+    border: 2px solid greenyellow;
+    
+    
+    
+}
+
+
+#name{
+    margin-left: 40%;
+    color: red;
+    
+    width: 300px;
+    font-size: 44px;
+    text-align: center;
+    margin-top: 50px;
+}
+#nm2{
+    margin-left: 400px;
+    margin-bottom: 40px;
+    color: black;
+    width: 200px;
+    text-align: center;
+    
+   
+}
+
+span{
+    color: rgb(129, 37, 17);
+}
+.blog{
+    background-color: rgb(76, 196, 65);
+    margin-top: 15px;
+    border: 2px solid black;
+}
+
+.para{
+    text-align: center;
+}
+
+.pic{
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-left: 5px;
+}
